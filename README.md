@@ -1,12 +1,12 @@
 <div align="center">
 <img width="100%" alt="Developer Illustration" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Illustration.gif"/>
 <br />
+<br />
 <p align="center"> 
   Visitor count<br>
  <img src="https://profile-counter.glitch.me/ishusinghse/count.svg" />
 </p>
 
-<br />
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <a href="https://facebook.com/" target="_blank">
