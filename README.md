@@ -26,7 +26,7 @@ I'm a Full Stack Developer with  hands-on experience designing, developing and i
 
 
 <br />
-I love learning new techs and using new tools. I also love drinking Atay (Tea in Ar - Morocco) while coding.
+I love learning new techs and using new tools, while coding.
 <br />
 <br />
 
