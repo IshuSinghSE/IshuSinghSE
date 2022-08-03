@@ -23,7 +23,7 @@
 </a>
 <br />
 <br />
-<img align="center" src="https://www.codewars.com/users/IshuSinghSE/badges/large" alt="Ashu Alpha Codewars Badge">
+<img  src="https://www.codewars.com/users/IshuSinghSE/badges/large" alt="Ashu Alpha Codewars Badge">
 <br />
 <br />
 
