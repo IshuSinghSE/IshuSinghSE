@@ -86,3 +86,9 @@ Ask me anything **[here](https://github.com/ishusinghse/ishusinghse/)** or <a hr
 <a margin="10" href="https://rubyonrails.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/rails.svg" alt="ruby on rails"></a>
 <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
 </div>
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ishusinghse&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![](https://raw.githubusercontent.com/ishusinghse/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/ishusinghse/github-stats-transparent/output/generated/languages.svg)
