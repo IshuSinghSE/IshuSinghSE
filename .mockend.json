@@ -1,31 +1,66 @@
 {
-  "User": {
-    "name": {
-      "string": {}
+  "Post": {
+    "_": {
+      "items": 10
     },
-    "avatarUrl": {
-      "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
+    "cover": {
+      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
     },
-    "statusMessage": {
-      "string": [
-        "working from home",
-        "watching Netflix"
-      ]
-    },
-    "email": {
-      "regexp": "#[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}"
-    },
-    "color": {
-      "regexp": "#[0-9A-F]{6}"
-    },
-    "age": {
-      "int": {
-        "min": 21,
-        "max": 100
+    "title": {
+      "loremWords": {
+        "minLength": 5,
+        "maxLength": 20
       }
     },
-    "isPublic": {
+    "body": {
+      "loremParagraphs": {
+        "minLength": 3,
+        "maxLength": 100
+      }
+    },
+    "category": {
+      "string": ["Sci-Fi", "Witty", "Romantic"]
+    },
+    "isDraft": {
       "boolean": {}
+    },
+    "views": {
+      "int": {
+        "min": 0,
+        "max": 1000
+      }
+    },
+    "createdAt": {
+      "dateTime": {
+        "min": "2010-01-01T00:00:00Z",
+        "max": "2020-12-31T23:59:59Z"
+      }
+    },
+    "comments": {
+      "hasMany": "Comment"
+    }
+  },
+  "Comment": {
+    "_": {
+      "items": 25
+    },
+    "email": {
+      "regexp": "[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}"
+    },
+    "body": {
+      "loremParagraphs": {
+        "minLength": 10,
+        "maxLength": 100
+      }
+    },
+    "createdAt": {
+      "dateTime": {
+        "min": "2020-01-01T00:00:00Z",
+        "max": "2022-12-31T23:59:59Z"
+      }
+    },
+    "post": {
+      "belongsTo": "Post"
     }
   }
 }
