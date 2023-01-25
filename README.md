@@ -7,7 +7,7 @@
  <img src="https://profile-counter.glitch.me/ishusinghse/count.svg" />
 </p>
 
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/IshuSinghSE/IshuSinghSE/tree/main/gifs/Hi.gif" width="30"></h2>
 
 <a href="https://facebook.com/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%2300acee.svg?color=405DE6&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
