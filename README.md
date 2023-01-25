@@ -7,7 +7,7 @@
  <img src="https://profile-counter.glitch.me/ishusinghse/count.svg" />
 </p>
 
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/IshuSinghSE/IshuSinghSE/tree/main/gifs/Hi.gif" width="30"></h2>
+<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <a href="https://facebook.com/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%2300acee.svg?color=405DE6&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
@@ -57,11 +57,11 @@ Ask me anything **[here](https://github.com/ishusinghse/ishusinghse/)** or <a hr
 ## Tech Stack
 
 <br />
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
-<a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/svgs/bootstrap.svg" alt="bootstrap"></a>
-<a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/svgs/html.svg" alt="html"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/svgs/css.svg" alt="css"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/svgs/javascript.svg" alt="javascript"></a>
+<a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
+<a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/svgs/sass.svg" alt="sass"></a>
 <br />
 <br />
 <a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a>
