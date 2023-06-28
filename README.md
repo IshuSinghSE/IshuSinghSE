@@ -64,15 +64,15 @@ Ask me anything **[here](https://github.com/ishusinghse/ishusinghse/)** or <a hr
 <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/svgs/sass.svg" alt="sass"></a>
 <br />
 <br />
-<a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg" alt="figma"></a>
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
-<a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nextjs.svg" alt="next js"></a>
+<a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/svgs/materialui.svg" alt="material ui"></a>
+<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/svgs/figma.svg" alt="figma"></a>
+<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/svgs/react.svg" alt="react"></a>
+<a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/svgs/nextjs.svg" alt="next js"></a>
 <br />
 <br />
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
-<a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/firebase.svg" alt="firebase"></a>
-<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
-<a margin="10" href="https://devdocs.io/c/" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/c.svg" alt="c programming"></a>
+<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
+<a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/svgs/firebase.svg" alt="firebase"></a>
+<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
+<a margin="10" href="https://devdocs.io/c/" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/svgs/c.svg" alt="c programming"></a>
 <br />
 </div>
