@@ -73,6 +73,6 @@ Ask me anything **[here](https://github.com/ishusinghse/ishusinghse/)** or <a hr
 <a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
 <a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/svgs/firebase.svg" alt="firebase"></a>
 <a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
-<a margin="10" href="https://devdocs.io/c/" target="_blank"><img margin="10px" height="40" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/svgs/c.svg" alt="c programming"></a>
+
 <br />
 </div>
