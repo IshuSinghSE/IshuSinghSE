@@ -38,22 +38,19 @@ I love learning new techs and using new tools, while coding.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishusinghse&layout=compact&theme=dark&bg_color=0A0A0A" alt="ishusinghse Top Languages"/>
 <br />
 <br />
-<br />
-
-**Happy Coding!** 😊
 
 </div>
 
 <div align="center">
 
- ### Tech Stack
+ ### My Tech Stack
   
 <img width="100%" alt="Developer Illustration" src="https://github.com/ishusinghse/ishusinghse/blob/main/gifs/waves-blue.svg"/>
   
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,angular,jquery,materialui,tailwind,redux,ts,vite,php,mongodb,mysql,threejs,django,next,postman,cpp,java,aws,ruby,heroku,vercel,netlify,firebase,git,bash,linux&perline=11" />
-<br />
-<br />
-<br />
+<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,django,flask,fastapi,postgres,react,mongodb,express,nodejs,nextjs,vite,typescript,tailwindcss,bootstrap,postman,vercel,netlify,firebase,git,bash,linux,&perline=8" />
 <img width="100%" alt="Developer Illustration" src="https://github.com/ishusinghse/ishusinghse/blob/main/gifs/lightning-superthin.gif"/>
 <br />
+
+**Happy Coding!** 😊
+
 </div>
