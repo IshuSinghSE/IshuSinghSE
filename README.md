@@ -24,7 +24,7 @@
 </a>
 <br />
 <br />
-I love learning new techs and using new tools, while coding.
+I love learning new techs and using new tools, while coding. See my projects at <a href="https://ishusinghse.github.io/">portfolio</a>
 <br />
 <br />
 
