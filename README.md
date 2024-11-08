@@ -45,7 +45,7 @@ I love learning new techs and using new tools, while coding. See my projects at 
   
 <img width="100%" alt="Developer Illustration" src="https://github.com/ishusinghse/ishusinghse/blob/main/gifs/waves-blue.svg"/>
   
-<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,django,flask,fastapi,postgres,react,mongodb,express,nodejs,nextjs,vite,typescript,tailwindcss,bootstrap,postman,vercel,netlify,firebase,git,bash,linux,&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,django,flask,postgres,postman,react,mongodb,nodejs,nextjs,typescript,tailwindcss,firebase,git,&perline=8" />
 <img width="100%" alt="Developer Illustration" src="https://github.com/ishusinghse/ishusinghse/blob/main/gifs/lightning-superthin.gif"/>
 <br />
 
