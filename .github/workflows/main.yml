@@ -6,11 +6,40 @@ on:
     - cron: "0 */24 * * *"
 
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: github.event_name == 'schedule' || contains(github.event.head_commit.message, '$nake')
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    steps:
+      - uses: actions/checkout@v2
+      - name: Create assets/snake directory if it doesn't exist
+        run: |
+          if [ ! -d "assets/snake" ]; then
+            mkdir -p assets/snake
+          fi
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake/github-contribution-grid-snake.svg?color_snake=blue&color_dots=#e0f7fa,#b2ebf2,#80deea,#4dd0e1,#26c6da
+            assets/snake/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=blue&color_dots=#e0f7fa,#b2ebf2,#80deea,#4dd0e1,#26c6da
+            assets/snake/ocean.gif?color_snake=blue&color_dots=#e0f7fa,#b2ebf2,#80deea,#4dd0e1,#26c6da
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add assets/snake
+          git commit -m "Add generated snake files"
+          git push
+
+  build_on_push:
+    runs-on: ubuntu-latest
+    if: contains(github.event.head_commit.message, '$nake')
     steps:
       - uses: actions/checkout@v2
       - name: Create assets/snake directory if it doesn't exist
