@@ -35,11 +35,12 @@ I love learning new techs and using new tools, while coding. See my projects at 
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishusinghse&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Ishusinghse Github Stats">
-<br />
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishusinghse&layout=compact&theme=dark&bg_color=0A0A0A" alt="ishusinghse Top Languages"/>
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishusinghse&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Ishusinghse Github Stats" style="flex: 1 1 45%; min-width: 300px; margin: 10px;height:auto;" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishusinghse&layout=compact&theme=dark&bg_color=0A0A0A" alt="ishusinghse Top Languages" style="flex: 1 1 45%; min-width: 300px; margin: 10px; height:auto;" />
+  </div>
+</div>
 <br />
 <br />
 
