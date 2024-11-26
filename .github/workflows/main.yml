@@ -28,7 +28,7 @@ jobs:
           outputs: |
             assets/snake/github-contribution-grid-snake.svg?color_snake=#2a7aef
             assets/snake/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#2a7aef
-            assets/snake/ocean.gif?color_snake=#2a7aef
+            # assets/snake/ocean.gif?color_snake=#2a7aef
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
