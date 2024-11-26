@@ -26,15 +26,15 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            assets/snake/github-contribution-grid-snake.svg?color_snake=blue&color_dots=#e0f7fa,#b2ebf2,#80deea,#4dd0e1,#26c6da
-            assets/snake/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=blue&color_dots=#e0f7fa,#b2ebf2,#80deea,#4dd0e1,#26c6da
-            assets/snake/ocean.gif?color_snake=blue&color_dots=#e0f7fa,#b2ebf2,#80deea,#4dd0e1,#26c6da
+            assets/snake/github-contribution-grid-snake.svg?color_snake=#f56c7d
+            assets/snake/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#f56c7d
+            assets/snake/ocean.gif?color_snake=#f56c7d
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add assets/snake
-          git commit -m "Add generated snake files"
+          git commit -m "updated snake"
           git push
 
   build_on_push:
@@ -60,5 +60,5 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add assets/snake
-          git commit -m "Add generated snake files"
+          git commit -m "updated snake"
           git push
