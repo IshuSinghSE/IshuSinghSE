@@ -15,23 +15,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Create dist directory if it doesn't exist
+      - name: Create assets/snake directory if it doesn't exist
         run: |
-          if [ ! -d "dist" ]; then
-            mkdir dist
+          if [ ! -d "assets/snake" ]; then
+            mkdir -p assets/snake
           fi
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            assets/snake/github-snake.svg
+            assets/snake/github-snake-dark.svg?palette=github-dark
+            assets/snake/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add dist
+          git add assets/snake
           git commit -m "Add generated snake files"
           git push
