@@ -2,11 +2,18 @@
 <img width="100%" alt="Developer Illustration" src="https://github.com/ishusinghse/ishusinghse/blob/main/assets/gifs/Illustration.gif"/>
 <br />
 <br />
-<p align="center"> 
+<p align="center" style="font-family: monospace;">
   Visitor count<br>
   <br />
  <img src="https://profile-counter.glitch.me/ishusinghse/count.svg" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/assets/snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/assets/snake/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/assets/snake/github-contribution-grid-snake.svg" />
+</picture>
+<br />
 
 <h2> Hi There, I am Ishu! <img src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/assets/gifs/Hi.gif" width="30"></h2>
 
@@ -27,13 +34,6 @@
 I love learning new techs and using new tools, while coding. See my projects at <a href="https://ishusinghse.github.io/">portfolio</a>
 <br />
 <br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/assets/snake/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/assets/snake/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/assets/snake/github-contribution-grid-snake.svg" />
-</picture>
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishusinghse&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Ishusinghse Github Stats">
 <br />
