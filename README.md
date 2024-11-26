@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" alt="Developer Illustration" src="https://github.com/ishusinghse/ishusinghse/blob/main/gifs/Illustration.gif"/>
+<img width="100%" alt="Developer Illustration" src="https://github.com/ishusinghse/ishusinghse/blob/main/assets/gifs/Illustration.gif"/>
 <br />
 <br />
 <p align="center"> 
@@ -8,7 +8,7 @@
  <img src="https://profile-counter.glitch.me/ishusinghse/count.svg" />
 </p>
 
-<h2> Hi There, I am Ishu! <img src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2> Hi There, I am Ishu! <img src="https://github.com/IshuSinghSE/IshuSinghSE/blob/main/assets/gifs/Hi.gif" width="30"></h2>
 
 <a href="https://www.linkedin.com/in/wth-ishu" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;width:150px;" />
@@ -49,10 +49,10 @@ I love learning new techs and using new tools, while coding. See my projects at 
 
  ### My Tech Stack
   
-<img width="100%" alt="Developer Illustration" src="https://github.com/ishusinghse/ishusinghse/blob/main/gifs/waves-blue.svg"/>
+<img width="100%" alt="Developer Illustration" src="https://github.com/ishusinghse/ishusinghse/blob/main/assets/gifs/waves-blue.svg"/>
   
 <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,django,flask,postgres,postman,react,mongodb,nodejs,nextjs,typescript,tailwindcss,firebase,git,&perline=8" />
-<img width="100%" alt="Developer Illustration" src="https://github.com/ishusinghse/ishusinghse/blob/main/gifs/lightning-superthin.gif"/>
+<img width="100%" alt="Developer Illustration" src="https://github.com/ishusinghse/ishusinghse/blob/main/assets/gifs/lightning-superthin.gif"/>
 <br />
 
 **Happy Coding!** 😊
