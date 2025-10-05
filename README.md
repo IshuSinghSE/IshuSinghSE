@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" alt="Developer Illustration" src="https://github.com/ishusinghse/ishusinghse/blob/main/assets/gifs/Illustration.gif"/>
+<img width="100%" alt="Developer Illustration" src="https://github.com/ishusinghse/ishusinghse/blob/main/assets/gifs/fireplace.gif"/>
 <br />
 <br />
 <p align="center" style="font-family: monospace;">
