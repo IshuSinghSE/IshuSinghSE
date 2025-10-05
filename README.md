@@ -5,7 +5,7 @@
 <p align="center" style="font-family: monospace;">
   Visitor count<br>
   <br />
- <img src="https://profile-counter.glitch.me/ishusinghse/count.svg" />
+<img src="https://profile-counter.deno.dev/ishusinghse/count.svg" alt="Profile Counter Repo :: Visitor's Count" />
 </p>
 
 <picture>
